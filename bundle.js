@@ -35432,7 +35432,7 @@
             }
         });
         // http:
-        _vue2.default.http.options.root = 'www.liulongbin.top:3005';
+        _vue2.default.http.options.root = 'http://www.liulongbin.top:3005';
         _vue2.default.http.options.emulateJSON = true;
 
         _vue2.default.filter('dateForm', function(dataStr) {
